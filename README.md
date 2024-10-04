@@ -5,7 +5,7 @@ JavaFullStack Developer and Designer
 ------------------------------------
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [https://javedcodez.github.io/](http://https://javedcodez.github.io/)
+* 🖥️  See my portfolio at [https://javedcodez.github.io/](https://javedcodez.github.io/)
 * ✉️  You can contact me at [shaikhjaved52696@gmail.com](mailto:shaikhjaved52696@gmail.com)
 * 🚀  I'm currently working on [Service App](http://serviceApp)
 * 🧠  I'm learning Enhance Java skills, master front-end frameworks, learn microservices, embrace DevOps, focus on testing, and engage in continuous learning.
