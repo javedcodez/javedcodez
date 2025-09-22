@@ -15,7 +15,7 @@ Java FullStack Developer and Designer
 ### 🌐 Featured Project
 
 **Prime Key Maker** – A locksmith service website  
-[![Live Demo](https://img.shields.io/badge/Click%20Here-Live%20Demo-brightgreen?style=for-the-badge)](https://javedcodez.github.io/prime-key-maker/)
+[![Live Demo](https://img.shields.io/badge/Click%20Here-Live%20Demo-brightgreen?style=for-the-badge)](https://primekeymakerv2.netlify.app/)
 
 ---
 
